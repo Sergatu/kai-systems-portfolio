@@ -1,0 +1,23 @@
+{
+  "en": {
+    "hero_title": "Intelligence that Evolves your Business",
+    "hero_subtitle": "We design entities digitality optimized for the AI era.",
+    "audit_btn": "Run AI Audit",
+    "services": "Strategic Services",
+    "guarantee": "KAI Guarantee: 100% AI Visible"
+  },
+  "es": {
+    "hero_title": "Inteligencia que hace Evolucionar tu Negocio",
+    "hero_subtitle": "Diseñamos entidades digitales optimizadas para la era de la IA.",
+    "audit_btn": "Ejecutar Auditoría IA",
+    "services": "Servicios Estratégicos",
+    "guarantee": "Garantía KAI: 100% Visible para la IA"
+  },
+  "de": {
+    "hero_title": "Intelligenz, die Ihr Unternehmen weiterentwickelt",
+    "hero_subtitle": "Wir entwerfen digitale Einheiten, die für das KI-Zeitalter optimiert sind.",
+    "audit_btn": "KI-Audit ausführen",
+    "services": "Strategische Dienstleistungen",
+    "guarantee": "KAI-Garantie: 100 % KI-Sichtbar"
+  }
+}
