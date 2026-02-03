@@ -2,40 +2,40 @@ export const translations = {
   es: {
     hero: {
       title: "Inteligencia que evoluciona tu negocio",
-      subtitle: "KAI SYSTEMS // Diseño de Inteligencia de Alto Nivel",
-      cta: "Comenzar Auditoría"
+      subtitle: "KAI SYSTEMS // High-End Intelligence",
+      cta: "Explorar Ecosistema"
     },
-    services: {
-      title: "Nuestras Capacidades",
-      seo: "Auditoría SEO & GEO",
-      design: "Rediseño Semántico",
-      automation: "Sistemas de Automatización"
+    nav: {
+      services: "Capacidades",
+      lab: "KAI Lab",
+      cases: "Impacto",
+      contact: "Conectar"
     }
   },
   de: {
     hero: {
       title: "Intelligenz, die Ihr Unternehmen weiterentwickelt",
-      subtitle: "KAI SYSTEMS // High-End-Intelligenz-Design",
-      cta: "Audit Starten"
+      subtitle: "KAI SYSTEMS // High-End-Intelligenz",
+      cta: "Ökosystem Erkunden"
     },
-    services: {
-      title: "Unsere Fähigkeiten",
-      seo: "SEO & GEO Audit",
-      design: "Semantisches Redesign",
-      automation: "Automatisierungssysteme"
+    nav: {
+      services: "Fähigkeiten",
+      lab: "KAI Lab",
+      cases: "Einfluss",
+      contact: "Verbinden"
     }
   },
   en: {
     hero: {
       title: "Intelligence that evolves your business",
-      subtitle: "KAI SYSTEMS // High-End Intelligence Design",
-      cta: "Run Audit"
+      subtitle: "KAI SYSTEMS // High-End Intelligence",
+      cta: "Explore Ecosystem"
     },
-    services: {
-      title: "Our Capabilities",
-      seo: "SEO & GEO Audit",
-      design: "Semantic Redesign",
-      automation: "Automation Systems"
+    nav: {
+      services: "Capabilities",
+      lab: "KAI Lab",
+      cases: "Impact",
+      contact: "Connect"
     }
   }
 };
